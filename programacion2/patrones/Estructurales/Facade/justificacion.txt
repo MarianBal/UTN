@@ -1,0 +1,9 @@
+Usé facade porque busco encapsular la complejidad detrás de una calse, haciendo que el código se más legible, más mantenible y que pueda seguir las reglas SOLID
+
+----
+Reglas SOLID:
+
+Single Resposibility Principle: cada clase tiene una única resposabilidad
+Open/Close Principle: las clases se extienden pero no se modifican
+Dependency Inversion Principle: las clases dependen de abstracciones, no de clases concretas.
+

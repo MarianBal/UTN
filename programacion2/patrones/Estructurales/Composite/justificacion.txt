@@ -1,0 +1,8 @@
+Usé Composite porque se necesita generar una estructura arbórea donde las ramas y las hojas actuan de manera similar.
+
+----
+Reglas SOLID:
+
+Single Resposibility Principle: cada clase tiene una única resposabilidad
+Open/Close Principle: las clases se extienden pero no se modifican
+Dependency Inversion Principle: las clases dependen de abstracciones, no de clases concretas.

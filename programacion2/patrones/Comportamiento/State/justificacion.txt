@@ -1,0 +1,9 @@
+Usé State porque necesito manejar los estados de la clase y que cambien en tiempo de ejecución
+
+----
+Reglas SOLID:
+
+Single Resposibility Principle: cada clase tiene una única resposabilidad
+Open/Close Principle: las clases se extienden pero no se modifican
+Dependency Inversion Principle: las clases dependen de abstracciones, no de clases concretas.
+
