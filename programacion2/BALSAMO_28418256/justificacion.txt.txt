@@ -1,0 +1,9 @@
+Elegí usar template method para generar los documentos ya que todos siguen los mismos pasos y solo algunos(en este caso la validación) necesita sobreescribirse
+
+Reglas SOLID implementadas
+SRP: porque cada clase solo tiene una responsabilidad
+OCP: porque se extiende la funcionalidad sin modificar las clase existentes
+DIP: Las clases depende de abstracciones, no de clases concretas
+
+---
+Avance muy poco con el código, ojalá el viernes podamos charlarlo
